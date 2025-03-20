@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ashmithhmaddala"><img width="80%" alt="Hello, I'm Ashmith Maddala!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/ashmithhmaddala"><img width="80%" alt="Hello, I'm Ashmith Maddala!" src="https://media.licdn.com/dms/image/v2/D5616AQGh6qAy0KMjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703431641424?e=1747872000&v=beta&t=REU6JRShJtaj-Xsaax4pbelYaeu70zVJMovVQNcCk9o" /></a></p>
 
 <br />
 
